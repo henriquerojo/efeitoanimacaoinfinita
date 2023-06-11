@@ -8,7 +8,7 @@
 .container
 {
     width: 100%;
-    height: 150px;
+    height: 700px;
     background: linear-gradient(0, #120c56, #000000);
 }
   
@@ -25,7 +25,27 @@
     250px 130px white,
     200px 50px white,
     150px 100px white,
-    320px 100px white;
+    320px 100px white,
+    450px 150px white,
+    500px 150px white,
+    600px 200px white,
+    550px 200px white,
+    650px 250px white,
+    680px 250px white,
+    1000px 300px white,
+    1000px 400px white,
+    1500px 350px white,
+    800px 500px white,
+    900px 700px white,
+    1450px 150px white,
+    1430px 150px white,
+    1550px 20px white,
+    1600px 80px white,
+    675px 130px white,
+    1700px 200px white,
+    2200px 80px white,
+    3000px 70px white;
+
     animation: anim-stars 10s linear infinite;
     position: relative;
 	width: 3px;
